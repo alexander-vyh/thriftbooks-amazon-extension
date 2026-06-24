@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "thrift_on_amazon",
+  "project_id": "fd93593f-695f-4a12-833c-f2e741c9f36e"
+}
